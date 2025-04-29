@@ -1,0 +1,1 @@
+- You MUST change the "command" setting to your g++.exe file directory for this to work!
